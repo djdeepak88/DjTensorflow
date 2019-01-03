@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Train</folder>
+	<filename>Motorcycle3.png</filename>
+	<path>/home/deepak-kumar-jha/Single_Image_object_detection_Model/images/Train/Motorcycle3.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>700</width>
+		<height>430</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>motorcycle</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>38</xmin>
+			<ymin>21</ymin>
+			<xmax>656</xmax>
+			<ymax>373</ymax>
+		</bndbox>
+	</object>
+</annotation>

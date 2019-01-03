@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Gray_Resized_Images</folder>
+	<filename>1.jpg</filename>
+	<path>/home/deepak-kumar-jha/Single_Image_object_detection_Model/Helmet_Pics/Gray_Resized_Images/1.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>157</width>
+		<height>150</height>
+		<depth>1</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Helmet</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>7</xmin>
+			<ymin>9</ymin>
+			<xmax>151</xmax>
+			<ymax>144</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Test</folder>
+	<filename>Motorcycle6.jpg</filename>
+	<path>/home/deepak-kumar-jha/Single_Image_object_detection_Model/images/Test/Motorcycle6.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>600</width>
+		<height>450</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>motorcycle</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>48</xmin>
+			<ymin>32</ymin>
+			<xmax>558</xmax>
+			<ymax>423</ymax>
+		</bndbox>
+	</object>
+</annotation>
