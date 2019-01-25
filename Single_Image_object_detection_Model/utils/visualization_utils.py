@@ -13,7 +13,7 @@
 # limitations under the License.
 # ==============================================================================
 from matplotlib.pyplot import box
-from dask.array.overlap import overlap
+#from dask.array.overlap import overlap
 
 """A set of functions that are used for visualization.
 
